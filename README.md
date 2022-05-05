@@ -1,1 +1,1 @@
-# beecrowd
+# Beecrowd - A online Judge Problem Solving Platform (old URI online judge)
